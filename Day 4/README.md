@@ -20,12 +20,12 @@ Create a menu that allows users to navigate between the activities created in ta
 # Output 
 Home
 
-![Home](https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215255.jpg = 1080 x 2280 )
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215255.jpg" width="225" height="450" />
 
 Card View
 
-![Card View](https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215300.jpg = 1080 x 2280 )
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215300.jpg" width="225" height="450" />
 
 Counter 
 
-![Counter](https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215305.jpg = 1080 x 2280)
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215305.jpg" width="225" height="450" />
