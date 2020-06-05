@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Navigation</string>
+    <string name="count_plus">Count +</string>
+    <string name="count_minus">Count -</string>
+    <string name="reset">Reset</string>
+    <string name="counter">0</string>
+</resources>
