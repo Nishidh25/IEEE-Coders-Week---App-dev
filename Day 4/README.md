@@ -16,3 +16,16 @@ https://www.youtube.com/watch?v=CC79Qz6n22c
 
 # Task  : 
 Create a menu that allows users to navigate between the activities created in task 2 and task 3.
+
+# Output 
+Home
+
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215255.jpg" width="225" height="450" />
+
+Card View
+
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215300.jpg" width="225" height="450" />
+
+Counter 
+
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%204/Screenshot_20200605-215305.jpg" width="225" height="450" />
