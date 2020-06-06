@@ -18,7 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.nss.Login.MainActivity">
+        <activity
+            android:name="com.nss.Login.MainActivity"
+            android:theme="@style/NoActionBar">
         </activity>
         <activity
             android:name="com.nss.Login.CardActivity"
