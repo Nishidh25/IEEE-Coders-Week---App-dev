@@ -26,8 +26,8 @@ https://github.com/vatsalsmehta/Android-app-resources-ieee-apsit/tree/master/Day
 
 # Login Activity
 
-<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%205/Screenshot_20200607-010232.jpg" width="225" height="450" />
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%205/Screenshot_20200607-011015.jpg" width="225" height="450" />
 
-# After Login
+# After Login - Home Activity
 
-<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%205/Screenshot_20200607-010249.jpg" width="225" height="450" />
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---App-dev/blob/master/Day%205/Screenshot_20200607-011025.jpg" width="225" height="450" />
